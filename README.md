@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 🤝 I'm Emre, an 18-year-old developer.<br>🎮 I have been developing games with Unity for about 4-5 years.<br>🌱 I'm also learning mobile application development with Flutter.
 
 
